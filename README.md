@@ -27,4 +27,10 @@ Based on awesome **[VSCode Material Theme](https://github.com/equinusocio/vsc-ma
     }
 ```
 
-5. That's it
+5. Don't forget to add Use declaration for `PrettyPageHandler`
+
+```php
+use Whoops\Handler\PrettyPageHandler;
+```
+
+6. That's it
