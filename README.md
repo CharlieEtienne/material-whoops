@@ -11,7 +11,7 @@ Based on awesome **[VSCode Material Theme](https://github.com/equinusocio/vsc-ma
 
 2. Create inside a folder named `css`
 
-3. Paste [whoops-custom.css](https://github.com/CharlieEtienne/material-whoops/blob/master/whoops-custom.css) into `app/public/vendor/whoops/css`
+3. Paste [whoops-custom.css](https://raw.githubusercontent.com/CharlieEtienne/material-whoops/master/whoops-custom.css) into `app/public/vendor/whoops/css`
 
 4. Add the following into `app/Exceptions/Handler.php`
 
