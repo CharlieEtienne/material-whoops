@@ -1,6 +1,8 @@
 # Material Whoops
 Material Dark Theme for [Laravel Whoops](https://github.com/filp/whoops) PrettyPageHandler
 
+![Screenshot](https://github.com/CharlieEtienne/material-whoops/blob/master/screenshot.png)
+
 ## How to use
 
 1. Create a folder in `app/public/vendor` named `whoops`
