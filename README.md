@@ -1,6 +1,8 @@
 # Material Whoops
 Material Dark Theme for [Laravel Whoops](https://github.com/filp/whoops) PrettyPageHandler
 
+Based on awesome **[VSCode Material Theme](https://github.com/equinusocio/vsc-material-theme)** by **Mattia Astorino**
+
 ![Screenshot](https://github.com/CharlieEtienne/material-whoops/blob/master/screenshot.png)
 
 ## How to use
