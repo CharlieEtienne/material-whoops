@@ -19,7 +19,7 @@ Based on awesome **[VSCode Material Theme](https://github.com/equinusocio/vsc-ma
   protected function whoopsHandler()
     {
         return tap(new PrettyPageHandler, function ($handler) {
-            $directory = public_path().'\vendor\whoops';
+            $directory = public_path().'/vendor/whoops';
             $css = '/css/whoops-custom.css';
             $handler->addResourcePath($directory);
             $handler->addCustomCss($css);
